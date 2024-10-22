@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: e84fd46d-fe90-4d01-98e4-afe9d3770ef0
-  WEBAPP-NAME: gustavo
+  WEBAPP-NAME: gustavo-webtest
 
 jobs:
   #Build, test and publish .net web project in repository
